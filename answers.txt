@@ -1,0 +1,5 @@
+1. Currently exist master, landing, landing-ru, package, bower, index and answers branches
+2. Branch index was merged with master.
+3. 15 commits excluding the one where new branch anwers was created.
+4. Added package, added locked package, removed lock
+
